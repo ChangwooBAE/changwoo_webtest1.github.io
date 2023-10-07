@@ -19,6 +19,8 @@ url: "https://changwoo_webtest1.github.io"
 baseurl: ""
 permalink: pretty
 
+github: [metadata]
+
 # Pagination
 paginate: 10
 #paginate_path: "/page:num/"
